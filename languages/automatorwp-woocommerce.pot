@@ -1,0 +1,461 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AutomatorWP - WooCommerce\n"
+"Report-Msgid-Bugs-To: https://automatorwp.com/\n"
+"POT-Creation-Date: 2021-02-25 21:18+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://automatorwp.com/)\n"
+"Language-Team: GamiPress <contact@automatorwp.com>\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: automatorwp-woocommerce.php:163
+#, php-format
+msgid "AutomatorWP - WooCommerce requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: automatorwp-woocommerce.php:176
+msgid "You can uninstall AutomatorWP - WooCommerce Integration because you already have the pro version installed and includes all the features of the free version."
+msgstr ""
+
+#: includes/actions/add-membership.php:26
+msgid "Add user to membership"
+msgstr ""
+
+#: includes/actions/add-membership.php:27
+msgid "Add user to <strong>membership</strong>"
+msgstr ""
+
+#: includes/actions/add-membership.php:29
+#: includes/actions/add-membership.php:31
+#: includes/actions/add-user-to-coupon.php:29
+#: includes/actions/add-user-to-coupon.php:31
+#, php-format
+msgid "Add user to %1$s"
+msgstr ""
+
+#: includes/actions/add-membership.php:34
+#: includes/triggers/membership-created.php:38
+msgid "Membership:"
+msgstr ""
+
+#: includes/actions/add-membership.php:35
+msgid "membership"
+msgstr ""
+
+#: includes/actions/add-membership.php:36
+msgid "Select a membership"
+msgstr ""
+
+#: includes/actions/add-membership.php:39
+msgid "Membership ID"
+msgstr ""
+
+#: includes/actions/add-user-to-coupon.php:26
+msgid "Add user to a coupon"
+msgstr ""
+
+#: includes/actions/add-user-to-coupon.php:27
+msgid "Add user to a <strong>coupon</strong>"
+msgstr ""
+
+#: includes/actions/add-user-to-coupon.php:34
+msgid "Coupon:"
+msgstr ""
+
+#: includes/actions/add-user-to-coupon.php:35
+msgid "Choose a coupon"
+msgstr ""
+
+#: includes/actions/add-user-to-coupon.php:37
+msgid "Coupon ID"
+msgstr ""
+
+#: includes/functions.php:49
+msgid "First name"
+msgstr ""
+
+#: includes/functions.php:50
+msgid "Last name"
+msgstr ""
+
+#: includes/functions.php:51
+msgid "Company"
+msgstr ""
+
+#: includes/functions.php:52
+msgid "Address line 1"
+msgstr ""
+
+#: includes/functions.php:53
+msgid "Address line 2"
+msgstr ""
+
+#: includes/functions.php:54
+msgid "City"
+msgstr ""
+
+#: includes/functions.php:55
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: includes/functions.php:56
+msgid "Country / Region"
+msgstr ""
+
+#: includes/functions.php:57
+msgid "State / County"
+msgstr ""
+
+#: includes/functions.php:58
+msgid "Phone"
+msgstr ""
+
+#: includes/functions.php:59
+msgid "Email"
+msgstr ""
+
+#: includes/functions.php:78
+msgid "AutomatorWP"
+msgstr ""
+
+#: includes/functions.php:79
+msgid "Plugin"
+msgstr ""
+
+#: includes/functions.php:80
+msgid "AutomatorWP Ltd."
+msgstr ""
+
+#: includes/functions.php:81
+msgid "False Street, 123"
+msgstr ""
+
+#: includes/functions.php:82
+msgid "First floor, door 2"
+msgstr ""
+
+#: includes/functions.php:83
+msgid "Brooklyn"
+msgstr ""
+
+#: includes/functions.php:84
+msgid "12345"
+msgstr ""
+
+#: includes/functions.php:85
+msgid "United States"
+msgstr ""
+
+#: includes/functions.php:86
+msgid "New York"
+msgstr ""
+
+#: includes/functions.php:87
+msgid "202-555-1234"
+msgstr ""
+
+#: includes/functions.php:88
+msgid "contact@automatorwp.com"
+msgstr ""
+
+#: includes/tags.php:25
+msgid "Customer Billing Address"
+msgstr ""
+
+#: includes/tags.php:41
+msgid "Customer Shipping Address"
+msgstr ""
+
+#: includes/tags.php:158
+msgid "Order ID"
+msgstr ""
+
+#: includes/tags.php:163
+msgid "Order Number"
+msgstr ""
+
+#: includes/tags.php:168
+msgid "Order Status"
+msgstr ""
+
+#: includes/tags.php:170
+msgid "Completed"
+msgstr ""
+
+#: includes/tags.php:173
+msgid "Order Date Created"
+msgstr ""
+
+#: includes/tags.php:178
+msgid "Order Date Paid"
+msgstr ""
+
+#: includes/tags.php:183
+msgid "Order Customer IP Address"
+msgstr ""
+
+#: includes/tags.php:188
+msgid "Order Coupon Codes"
+msgstr ""
+
+#: includes/tags.php:193
+msgid "Order Subtotal"
+msgstr ""
+
+#: includes/tags.php:198
+msgid "Order Discount"
+msgstr ""
+
+#: includes/tags.php:203
+msgid "Order Tax"
+msgstr ""
+
+#: includes/tags.php:208
+msgid "Order Total"
+msgstr ""
+
+#: includes/tags.php:213
+msgid "Order Meta"
+msgstr ""
+
+#: includes/tags.php:215
+msgid "Order meta value, replace \"META_KEY\" by the order meta key"
+msgstr ""
+
+#: includes/tags.php:222
+#, php-format
+msgid "Billing %s"
+msgstr ""
+
+#: includes/tags.php:232
+#, php-format
+msgid "Shipping %s"
+msgstr ""
+
+#: includes/triggers/anonymous-complete-purchase.php:27
+#: includes/triggers/anonymous-complete-purchase.php:31
+msgid "Guest completes a purchase"
+msgstr ""
+
+#: includes/triggers/anonymous-complete-purchase.php:28
+msgid "Guest completes <strong>a purchase</strong>"
+msgstr ""
+
+#: includes/triggers/anonymous-complete-purchase.php:30
+#, php-format
+msgid "Guest completes a purchase %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-category.php:27
+msgid "Guest purchases a product of a category"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-category.php:28
+msgid "Guest purchases a product of <strong>a category</strong>"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-category.php:30
+#: includes/triggers/anonymous-purchase-product-tag.php:30
+#, php-format
+msgid "Guest purchases a product of %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-category.php:32
+#: includes/triggers/anonymous-purchase-product-tag.php:32
+#, php-format
+msgid "Guest purchases a product of %1$s"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-category.php:44
+#: includes/triggers/anonymous-purchase-product-tag.php:46
+#: includes/triggers/anonymous-purchase-product.php:46
+#: includes/triggers/purchase-product-category.php:43
+#: includes/triggers/purchase-product-tag.php:45
+#: includes/triggers/purchase-product.php:45
+#: includes/triggers/purchase-subscription.php:45
+msgid "Product"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-tag.php:27
+msgid "Guest purchases a product of a tag"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-tag.php:28
+msgid "Guest purchases a product of <strong>a tag</strong>"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-tag.php:39
+#: includes/triggers/purchase-product-tag.php:38
+msgid "Tag:"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product-tag.php:40
+#: includes/triggers/purchase-product-tag.php:39
+msgid "any tag"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product.php:27
+msgid "Guest purchases a product"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product.php:28
+msgid "Guest purchases <strong>a product</strong>"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product.php:30
+#, php-format
+msgid "Guest purchases %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product.php:32
+#, php-format
+msgid "Guest purchases %1$s"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product.php:39
+#: includes/triggers/purchase-product.php:38
+#: includes/triggers/purchase-subscription.php:38
+#: includes/triggers/view-product.php:38
+msgid "Product:"
+msgstr ""
+
+#: includes/triggers/anonymous-purchase-product.php:40
+#: includes/triggers/purchase-product.php:39
+#: includes/triggers/purchase-subscription.php:39
+#: includes/triggers/view-product.php:39
+msgid "any product"
+msgstr ""
+
+#: includes/triggers/complete-purchase.php:26
+#: includes/triggers/complete-purchase.php:30
+msgid "User completes a purchase"
+msgstr ""
+
+#: includes/triggers/complete-purchase.php:27
+msgid "User completes <strong>a purchase</strong>"
+msgstr ""
+
+#: includes/triggers/complete-purchase.php:29
+#, php-format
+msgid "User completes a purchase %1$s time(s)"
+msgstr ""
+
+#: includes/triggers/membership-created.php:26
+msgid "User is added to a membership"
+msgstr ""
+
+#: includes/triggers/membership-created.php:27
+msgid "User is <strong>added</strong> to a <strong>membership</strong>"
+msgstr ""
+
+#: includes/triggers/membership-created.php:29
+#, php-format
+msgid "User is added to %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/membership-created.php:31
+#, php-format
+msgid "User is added to %1$s"
+msgstr ""
+
+#: includes/triggers/membership-created.php:39
+msgid "any membership"
+msgstr ""
+
+#: includes/triggers/membership-created.php:45
+msgid "Membership"
+msgstr ""
+
+#: includes/triggers/purchase-product-category.php:26
+msgid "User purchases a product of a category"
+msgstr ""
+
+#: includes/triggers/purchase-product-category.php:27
+msgid "User purchases a product of <strong>a category</strong>"
+msgstr ""
+
+#: includes/triggers/purchase-product-category.php:29
+#: includes/triggers/purchase-product-tag.php:29
+#, php-format
+msgid "User purchases a product of %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/purchase-product-category.php:31
+#: includes/triggers/purchase-product-tag.php:31
+#, php-format
+msgid "User purchases a product of %1$s"
+msgstr ""
+
+#: includes/triggers/purchase-product-tag.php:26
+msgid "User purchases a product of a tag"
+msgstr ""
+
+#: includes/triggers/purchase-product-tag.php:27
+msgid "User purchases a product of <strong>a tag</strong>"
+msgstr ""
+
+#: includes/triggers/purchase-product.php:26
+msgid "User purchases a product"
+msgstr ""
+
+#: includes/triggers/purchase-product.php:27
+msgid "User purchases <strong>a product</strong>"
+msgstr ""
+
+#: includes/triggers/purchase-product.php:29
+#, php-format
+msgid "User purchases %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/purchase-product.php:31
+#, php-format
+msgid "User purchases %1$s"
+msgstr ""
+
+#: includes/triggers/purchase-subscription.php:26
+msgid "User purchases subscription of a product"
+msgstr ""
+
+#: includes/triggers/purchase-subscription.php:27
+msgid "User <strong>purchases</strong> subscription of a product"
+msgstr ""
+
+#: includes/triggers/purchase-subscription.php:29
+#, php-format
+msgid "User purchases subscription of %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/purchase-subscription.php:31
+#, php-format
+msgid "User purchases subscription of %1$s"
+msgstr ""
+
+#: includes/triggers/view-product.php:26
+msgid "User views a product"
+msgstr ""
+
+#: includes/triggers/view-product.php:27
+msgid "User views <strong>a product</strong>"
+msgstr ""
+
+#: includes/triggers/view-product.php:29
+#, php-format
+msgid "User views %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/view-product.php:31
+#, php-format
+msgid "User views %1$s"
+msgstr ""
